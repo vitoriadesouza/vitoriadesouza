@@ -10,16 +10,24 @@
 
 ### 📫 Onde me encontrar
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/vihh.sx)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vitoriasouza.ifc@gmail.com) <!-- Substitua pelo seu email! -->
+<a href="https://instagram.com/rodolphoextremr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:vitoriasouza.ifc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriadesouza&show_icons=true&tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriadesouza&layout=compact&tokyonight" />
+  <table>
+    <tr>
+     <td>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriadesouza&show_icons=true&tokyonight&count_private=true" />  
+    </td>
+    <td>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriadesouza&layout=compact&tokyonight" />  
+    </td>
+       </tr>
+  </table>
 </div>
 
 ---
