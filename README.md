@@ -1,8 +1,7 @@
-<h1 align="center">## Oi, Eu sou a Vitória!
-<p align="center">
+# Oi, Eu sou a Vitória!
+<p>
 📍 Natural de Joinville - Santa Catarina.
 💻 Cursando o curso técnico integrado de Informática para Internet no Instituto Federal Catarinense - Campus Araquari.
-
 </p>
 
 ---
@@ -20,8 +19,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriadesouza&show_icons=true&tokyonight&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriadesouza&layout=compact&tokyonight" />
 </div>
-
----
 
 ---
 
