@@ -1,5 +1,4 @@
-<h1 align="center"># [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=35&center=true&vCenter=true&width=1000&lines=Hello!+Meu+nome+é+Vitória+de+Souza;Tenho+16+anos+atualmente;Seja+bem-+vindo!)](https://git.io/typing-svg) <!--typing-->
-
+<h1 align="center"># 
 <p align="center">
 📍 Natural de Joinville - Santa Catarina.
 💻 Cursando o curso técnico integrado de Informática para Internet no Instituto Federal Catarinense - Campus Araquari.
