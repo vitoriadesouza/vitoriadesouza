@@ -1,6 +1,8 @@
 # Oi, Eu sou a Vitória!
 <p>
 📍 Natural de Joinville - Santa Catarina.
+</p>
+<p>
 💻 Cursando o curso técnico integrado de Informática para Internet no Instituto Federal Catarinense - Campus Araquari.
 </p>
 
