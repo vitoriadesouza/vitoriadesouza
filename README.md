@@ -3,9 +3,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG"> 
   </a>
 </div>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&width=435&lines=Ol%C3%A1%2C+me+chamo+Vit%C3%B3ria!" alt="Typing SVG">
-</a>
 <p>
 📍 Natural de Joinville - Santa Catarina.
 </p>
@@ -17,12 +14,25 @@
 
 ---
 
-<h3> 📫 Onde me encontrar </h3> 
+<table>
+  <tr>
+    <td>
+      <h3>📌 Onde me encontrar</h3>
+      <p>
+        <a href="https://www.instagram.com/vihh.sx/" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=purple" />
+        </a>
+        <a href="mailto:vitoriasouza.ifc@gmail.com" target="_blank">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=purple" />
+        </a>
+      </p>
+    </td>
+    <td>
+      <img src="https://github.com/vitoriadesouza/vitoriadesouza/raw/main/study.gif" width="250px" />
+    </td>
+  </tr>
+</table>
 
-<a href="https://instagram.com/vihh.sx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=purple" target="_blank"></a>
-<a href = "mailto:vitoriasouza.ifc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-<img align="right" alt="" height="190px" src="./">
 
 <h3 align="left">My Stack</h3>
 
