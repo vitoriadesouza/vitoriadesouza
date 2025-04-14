@@ -20,7 +20,6 @@
 <a href="https://instagram.com/vihh.sx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=purple" target="_blank"></a>
 <a href = "mailto:vitoriasouza.ifc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
----
 <img align="right" alt="" height="190px" src="./">
 
 <h3 align="left">My Stack ~</h3>
@@ -32,10 +31,11 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="25" alt="vue logo"/>
   <img width="8" />
 </div>
 
+---
 
 ### 📊 GitHub Stats
 
