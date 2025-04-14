@@ -4,7 +4,7 @@
   </a>
 </div>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&width=435&lines=Ol%C3%A1%2C+me+chamo+Vit%C3%B3ria!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&width=435&lines=Ol%C3%A1%2C+me+chamo+Vit%C3%B3ria!" alt="Typing SVG">
 </a>
 <p>
 📍 Natural de Joinville - Santa Catarina.
@@ -15,14 +15,14 @@
 
 ---
 
-### 📫 Onde me encontrar
+<h3> 📫 Onde me encontrar </h3> 
 
 <a href="https://instagram.com/vihh.sx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=purple" target="_blank"></a>
 <a href = "mailto:vitoriasouza.ifc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <img align="right" alt="" height="190px" src="./">
 
-<h3 align="left">My Stack ~</h3>
+<h3 align="left">My Stack</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
