@@ -13,7 +13,7 @@
 💻 Cursando o curso técnico integrado de Informática para Internet no Instituto Federal Catarinense - Campus Araquari.
 </p>
 
-<img align="right" alt="" height="190px" margin="10vw" src="./study.gif">
+<img align="right" alt="" height="170px" margin="10vw" src="./study.gif">
 
 ---
 
